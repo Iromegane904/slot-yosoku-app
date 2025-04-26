@@ -1,0 +1,1 @@
+# slot-yosoku-app
